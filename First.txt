@@ -3,3 +3,4 @@ main says Hi.
 dev1 says hello
 dev2 says hello.
 main will shows rebase.
+dev3 shows rebase.
